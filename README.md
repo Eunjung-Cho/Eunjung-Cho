@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)
+  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)  
+  
   ![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&show_icons=true)
 
