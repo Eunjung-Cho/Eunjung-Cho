@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Eunjung Cho
 --- 
-
+> ABOUT ME
 I am a student who is passionate about producing results that people can enjoy through data analysis.
 <!--
 **Eunjung-Cho/Eunjung-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
