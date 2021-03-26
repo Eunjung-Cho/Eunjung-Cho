@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)](https://www.linkedin.com/in/cho-eunjung-16882a129/)
- ![](http://img.shields.io/badge/-Blog-62e33e?style=plastic&logo=N&link=https://blog.naver.com/aza425)
+[![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/aza425)]
