@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-#### Introducing DALC 🌙
+#### Introducing DALC 🌙  
 DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
 You could see more details by clicking on the notion icon below.
 ---
