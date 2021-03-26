@@ -5,7 +5,8 @@ I am a student who is passionate about producing results that people can enjoy t
 <!--
 **Eunjung-Cho/Eunjung-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Eunjung-Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho)](https://github.com/anuraghazra/github-readme-stats)
+![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 -->
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)](https://www.linkedin.com/in/cho-eunjung-16882a129/)
+  ![](https://img.shields.io/badge/N-Blog-brightgreen)
