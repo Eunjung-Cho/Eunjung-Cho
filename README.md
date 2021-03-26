@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)    
   
-  [![Blog Badge](https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/aza425)](https://blog.naver.com/aza425)![image](https://user-images.githubusercontent.com/59313007/112643649-ecd45680-8e87-11eb-8a0f-dc2d41625d33.png)
+(https://blog.naver.com/aza425)![image](https://user-images.githubusercontent.com/59313007/112643649-ecd45680-8e87-11eb-8a0f-dc2d41625d33.png)
 
   
   ![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&show_icons=true)
