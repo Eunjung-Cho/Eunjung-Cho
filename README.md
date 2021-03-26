@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 -->
 ---
 #### Introducing DALC 🌙  
-Currently, I'm studying Deep Learning algorithms through DALC DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
-You could see more details by clicking on the notion icon below.
+- DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
+- You could see more details by clicking on the notion icon below.
 ---
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)  
 [![Blog Badge](https://img.shields.io/badge/-Blog-62e33e?logo=naver&logoColor=white&link=https://blog.naver.com/aza425)](https://blog.naver.com/aza425)
