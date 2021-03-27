@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 [![Notion Badge](https://img.shields.io/badge/-Notion-ffd700?logo=notion&logoColor=white&link=https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)](https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)
 ---
   
-[![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&count_private=true&custom_title=Eunjung-Cho's&nbsp;github&nbsp;👀&bg_color=30,ffd700,111111,e7bd42&title_color=fff&text_color=fff)](https://github.com/Eunjung-Cho/github-readme-stats)
+[![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&count_private=true&custom_title=Eunjung-Cho's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=fff&text_color=fff)](https://github.com/Eunjung-Cho/github-readme-stats)
