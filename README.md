@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-#### Introducing DALC 🌙  ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F11c49d77-5b54-450b-9158-efb4c6852b53%2F1.jpg?table=block&id=e0525781-c753-45bf-944c-01119270a9e6&width=250&userId=d9ae68ed-55ab-4fa5-bccd-0ba1bae58ac2&cache=v2)(https://github.com/Eunjung-Cho/Donduk-Ai-Learning-Crew)
+#### Introducing DALC 🌙  [DALC STDUY GITHUB](https://github.com/Eunjung-Cho/Donduk-Ai-Learning-Crew)
 - DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
 - You could see more details by clicking on the notion icon below.
 ---
