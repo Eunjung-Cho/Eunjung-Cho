@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 #### Introducing DALC 🌙  [DALC STUDY GITHUB](https://github.com/Eunjung-Cho/DALC)
 - DALC is a club of students from Dongduk Women's University who are interested in AI technology and application services.  
-- You could see more details by clicking on the notion icon below.
+- You could see more details by clicking on the notion icon.
 [![Notion Badge](https://img.shields.io/badge/-Notion-ffd700?logo=notion&logoColor=white&link=https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)](https://www.notion.so/Dongduk-AI-Leraning-Crew-e0525781c75345bf944c01119270a9e6)
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cho-eunjung-16882a129/)](https://www.linkedin.com/in/cho-eunjung-16882a129/)
