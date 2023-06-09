@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Eunjung Cho
 --- 
 #### ABOUT ME 😄
-I am a student who is passionate about producing results that people can enjoy through data analysis.
+I work as a data analyst and DW/BI engineer at IT consulting startup.
 
 #### STUDY 👯
-Currently, I'm studying Deep Learning algorithms through DALC
+
 
 <!--
 **Eunjung-Cho/Eunjung-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,5 +54,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-32cd32?style=flat-square&logo=mongoDB&logoColor=white"/></a>&nbsp
   
 
-  [![Eunjung-Cho's github stats](https://github-readme-stats.vercel.app/api?username=Eunjung-Cho&count_private=true&custom_title=Eunjung-Cho's&nbsp;github&nbsp;👀&bg_color=30,ffd700,FFFFF0,e7bd42&title_color=392f31&text_color=392f31)](https://github.com/Eunjung-Cho/github-readme-stats) 
 
