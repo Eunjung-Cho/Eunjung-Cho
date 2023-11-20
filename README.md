@@ -1,7 +1,15 @@
 ### Hi 👋, I'm Eunjung Cho
 --- 
 #### ABOUT ME 😄
-I work as a data analyst and DW/BI engineer at IT consulting startup.
+I had worked as a data analyst at IT consulting startup (Brackets) for almost 2 years. 
+I exprienced several project for developing and creating DW/BI systems with various DBMS systmes(Mysql, Oracle, SAP HANA DB, Postgresql), and BI tools(Tableau, Looker, SAP Analytics Cloud).
+I am currently working in Mercedes-Benz Financial Servises Korea in Seoul as a Business Intelligence/Business Analytics position.
+It is a vital role in driving data-driven decision-making and providing actionable insights to support the company's financial and operational objectives. 
+
+Main Work:
+- BI Data Warehouse maintenance
+- BI Dashboard Development & Maintenance
+- Data Quality Management
 
 #### STUDY 👯
 
