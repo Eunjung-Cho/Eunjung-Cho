@@ -1,15 +1,17 @@
 ## Hi 👋, I'm Eunjung Cho (Emily Cho)
 --- 
 ### ABOUT ME 😄
-I had worked as a data analyst at IT consulting startup (Brackets) for almost 2 years. 
-I exprienced several project for developing and creating DW/BI systems with various DBMS systmes(Mysql, Oracle, SAP HANA DB, Postgresql), and BI tools(Tableau, Looker, SAP Analytics Cloud).
-I am currently working in Mercedes-Benz Financial Servises Korea in Seoul as a Business Intelligence/Business Analytics position.
-It is a vital role in driving data-driven decision-making and providing actionable insights to support the company's financial and operational objectives. 
+Hello, I am a 4th-year data analyst.
+
+I worked at an IT consulting startup, Brackets, for almost two years, where I gained experience in several projects focused on developing and implementing DW/BI systems. These projects involved various DBMS platforms such as MySQL, Oracle, SAP HANA DB, and PostgreSQL, as well as BI tools like Tableau, Looker, and SAP Analytics Cloud.
+
+Currently, I am working at Mercedes-Benz Financial Services Korea in Seoul.
 
 ##### Main Work:
 - BI Data Warehouse maintenance
 - BI Dashboard Development & Maintenance
 - Data Quality Management
+- Ad-hoc Data analysis
 
 ### STUDY 👯
 ---
