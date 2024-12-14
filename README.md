@@ -60,8 +60,9 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aza425&tag=객체지향프로그래밍)](https://velog.io/@aza425) 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=aza425&tag=sql)](https://velog.io/@aza425) 
+  [![Naver Blog Post](https://img.shields.io/badge/-Naver%20Blog%20Post-brightgreen?style=flat-square&logo=naver&logoColor=white)](https://m.blog.naver.com/aza425/223693782654)
+
   </div>
 
   
